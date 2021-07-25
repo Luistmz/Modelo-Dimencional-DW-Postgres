@@ -1,6 +1,6 @@
 # Comandos para interagir com o Postgres #
 
-## Banco de dados Dimensional Dataware House ##
+## Banco de dados Dimensional Data wareHouse ##
 O modelo Dimensional foi criado a partir do modelo relacional link do modelo relacinonal: https://github.com/Luistmz/Criando-Banco-relacional-Postgres
 
 Todas as cargas de dados realizadas no modelo dimensional foram a partir das tabelas do modelo relacional
